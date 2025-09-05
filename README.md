@@ -99,4 +99,4 @@
 
 ---
 
-⭐ From [Ajit Nakate](https://github.com/AjitNakate)
+⭐ From [AjitNakate](https://github.com/AjitNakate)
