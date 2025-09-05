@@ -5,7 +5,6 @@
 💡 Passionate about building impactful applications, solving real-world problems, and exploring AI-driven innovations.  
 
 ---
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🌐 Connect with Me  
