@@ -85,18 +85,18 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aj2k4&show_icons=true&theme=tokyonight" alt="Ajit's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj2k4&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AjitNakate&show_icons=true&theme=tokyonight" alt="Ajit's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjitNakate&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aj2k4&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AjitNakate&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aj2k4&theme=tokyo-night" alt="Ajit's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjitNakate&theme=tokyo-night" alt="Ajit's Activity Graph"/>
 </p>
 
 ---
 
-⭐ From [AjitNakate](https://github.com/AjitNakate)
+⭐ From [Ajit Nakate](https://github.com/AjitNakate)
