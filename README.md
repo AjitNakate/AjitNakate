@@ -28,7 +28,7 @@
 
 *Tools & Platforms:* 
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=F05032&style=flat&logoWidth=40) ![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=171515&style=flat&logoWidth=40) ![VS Code](https://img.shiel)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=F05032&style=flat&logoWidth=40) ![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=171515&style=flat&logoWidth=40) ![VS Code](https://img.shields.io/badge/GitHub-171515?)
  
 
 
