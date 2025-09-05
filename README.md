@@ -28,7 +28,8 @@
 
 *Tools & Platforms:* 
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=40) ![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge&logoWidth=40) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge&logoWidth=40) ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=black&style=for-the-badge&logoWidth=40) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge&logoWidth=40) ![Postman](https://)_)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=F05032&style=flat&logoWidth=40) ![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=171515&style=flat&logoWidth=40) ![VS Code](https://img.shiel)
+ 
 
 
 *Data Science & Visualization:*  
