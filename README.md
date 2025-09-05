@@ -17,6 +17,7 @@
 ## 🛠 Technical Skills  
 
 *Languages:*  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
 *Web Development:*  
@@ -25,16 +26,13 @@
  
  
 
-*Tools & Platforms:*  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=black)  
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
+*Tools & Platforms:* 
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=40) ![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge&logoWidth=40) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge&logoWidth=40) ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=black&style=for-the-badge&logoWidth=40) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge&logoWidth=40) ![Postman](https://)_)
+
 
 *Data Science & Visualization:*  
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?logoColor=white)  
