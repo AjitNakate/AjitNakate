@@ -4,7 +4,10 @@
 🎓 Pursuing B.E. in Artificial Intelligence & Data Science at *P.E.S. Modern College of Engineering, Pune*  
 💡 Passionate about building impactful applications, solving real-world problems, and exploring AI-driven innovations.  
 
+
 ---
+
+
 
 
 ## 🌐 Connect with Me  
@@ -32,6 +35,8 @@
 *Data Science & Visualization:*  
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?logoColor=white)  
+
+
 
 
 
