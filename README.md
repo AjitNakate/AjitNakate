@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajit Nakate  
+ # 👋 Hi, I'm Ajit Nakate  
 
 🚀 *Aspiring AI & Data Science Engineer | Web Developer | Problem Solver*  
 🎓 Pursuing B.E. in Artificial Intelligence & Data Science at *P.E.S. Modern College of Engineering, Pune*  
@@ -24,7 +24,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
 
 *Web Development:*  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
  
  
  
